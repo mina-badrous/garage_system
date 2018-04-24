@@ -1,4 +1,4 @@
-# garage_system
+# GARAGE SYSTEM
 lock system for garage
 by MINA BADROUS
 ---------------------------------------------------------------------------------------------------

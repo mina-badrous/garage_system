@@ -5,8 +5,8 @@ by MINA BADROUS
 DESCRIPTION
 -----------
 ---------------------the default
-USER PASSWORD  : 1111     (KEYPAD)
-ADMIN PASSWORD : 1234     (TERMINAL)
+USER PASSWORD  : 1111(KEYPAD)
+ADMIN PASSWORD : 1234(TERMINAL)
 ---------------------
 the system check first if the admin
 change the default password of user and admin

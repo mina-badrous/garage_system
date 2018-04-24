@@ -5,6 +5,7 @@ by MINA BADROUS
 DESCRIPTION
 -----------
 USER PASSWORD  : 1111 (KEYPAD) 
+
 ADMIN PASSWORD : 1234 (TERMINAL)
 
 the system check first if the admin change the default password of user and admin then load the changed password if found 

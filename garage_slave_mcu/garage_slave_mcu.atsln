@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "garage_slave_mcu", "garage_slave_mcu\garage_slave_mcu.cproj", "{92CCA8E4-1A81-48BB-AF30-0B5D472D9230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92CCA8E4-1A81-48BB-AF30-0B5D472D9230}.Debug|AVR.ActiveCfg = Debug|AVR
+		{92CCA8E4-1A81-48BB-AF30-0B5D472D9230}.Debug|AVR.Build.0 = Debug|AVR
+		{92CCA8E4-1A81-48BB-AF30-0B5D472D9230}.Release|AVR.ActiveCfg = Release|AVR
+		{92CCA8E4-1A81-48BB-AF30-0B5D472D9230}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
